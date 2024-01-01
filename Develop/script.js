@@ -22,6 +22,9 @@ $(function () {
       });
     }
 
+      // Update time block colors on page load
+  updateTimeBlocks();
+
     // Click event for save button
   $(".saveBtn").on("click", function () {
     var hourId = $(this).parent().attr("id");
