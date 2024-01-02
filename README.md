@@ -25,5 +25,9 @@ As an employee with a busy schedule, I want to add important events to a daily p
    ```bash
    git clone https://github.com/cpulsipher24/work-day-scheduler.git
 
+## Screenshot
+
+![Screenshot](screenshot.jpg)
+
 ## License
 Please refer to the LICENSE file in the repository. 
